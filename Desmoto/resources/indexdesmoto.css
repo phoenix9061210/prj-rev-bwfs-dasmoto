@@ -1,0 +1,43 @@
+h1, h2, h3, p {
+  font-family: 'Helvetica'
+}
+
+h1 {
+  background-image: url("./images/pattern.jpeg");
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  color: khaki;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#brush {
+  background-color: mediumspringgreen;
+}
+
+#frame {
+  background-color: lightcoral;
+}
+
+#paint {
+  background-color: skyblue;
+}
+
+#nding {
+  font-size: 24px;
+  background-color: grey;
+}
+
+.price {
+  font-weight: bold;
+  color: blue;
+}
+
+.Signature {
+  font-size: 24px;
+}
